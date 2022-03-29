@@ -22,7 +22,6 @@ export default function Home() {
             })
             console.log(movies, series)
     }
-    const color = 'pink'
   return (
     <div>
         <header className={style.header}>
